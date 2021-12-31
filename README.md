@@ -32,7 +32,7 @@ From the following screengrabs, you can see the original version of the code had
 ![All_Stocks_2018_Execution](Resources/All_Stocks_2018_Execution.png)
 
 #### Refactored Script
--The refactored script had similar elapsed times for 2017 and 2018 and both execution times improved with the new code.
+-The refactored script had similar elapsed times for 2017 and 2018, and both execution times improved with the new code.
 
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png) 
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)

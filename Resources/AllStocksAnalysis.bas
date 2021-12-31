@@ -1,9 +1,6 @@
 Attribute VB_Name = "Module5"
 Sub AllStocksAnalysis()
  
- Dim startTime As Single
-    Dim endTime  As Single
- 
  'Added Input box
  yearValue = InputBox("What year would you like to run the analysis on?")
  

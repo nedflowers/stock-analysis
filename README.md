@@ -17,8 +17,4 @@
 ### Stock Year to Year Comparison
 - The first thing I notice is the stark difference between the years. In 2017, most returns seem profitable with "DQ" earning a 199.99% return rate. That same year, "TERP" was the only stock to go red at -7.2% return. 
 
-<p float="left">
-  <img src="/All_Stocks_Analysis_2017.png" width="100" />
-  <img src="/All_Stocks_Analysis_2018.png" width="100" /> 
-</p>
-
+![All_Stocks_Analysis_2017](Resources/All_Stocks_Analysis_2017.png) ![All_Stocks_Analysis_2018](Resources/All_Stocks_Analysis_2017.png)

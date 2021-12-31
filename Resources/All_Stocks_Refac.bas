@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module6"
 Sub AllStocksAnalysisRefactored()
     'Initialize variables for starting price and ending price
     Dim startTime As Single

@@ -7,7 +7,7 @@
  
 ### Outline of Script
 - In order to achieve a more efficient script, first, I created an outline of what the refactored could should look like.
-- 
+
      ![All_Stocks_Analysis_Outline.png](Resources/All_Stocks_Analysis_Outline.png)
 
 ### Challenges and Difficulties Encountered

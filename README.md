@@ -14,13 +14,11 @@
 
 ## Comparison
 
-### Code
-- The first difference between the refactored and original code is the new code begins by initializing variables for starttime and endtime, whereas the original did not assign a data type to the variable.
+### Stock Year to Year Comparison
+- The first thing I notice is the stark difference between the years. In 2017, most returns seem profitable with "DQ" earning a 199.99% return rate. That same year, "TERP" was the only stock to go red at -7.2% return. 
 
-
--Next, in the refactored code, the ticker index is created and set equal to zero before the output arrays are defined.
-
--Additionally, there a 3 output arrays in the refactored code, but in the original, only two arrays are defined. The variable for totalvolume was not assigned a data type in the original. To expand on this difference, both the start time and end time variables in the original script are defined as single. However, in the refactored script both were assigned as double.
-
--Lastly, in the refactored script, I avoided an extra for loop by using an Else statement. Meaning, if the next row’s ticker doesn’t match the previous row’s ticker, then do nothing and  move on to the next ticker index (i).
+<p float="left">
+  <img src="/All_Stocks_Analysis_2017.png" width="100" />
+  <img src="/All_Stocks_Analysis_2018.png" width="100" /> 
+</p>
 

@@ -25,5 +25,5 @@ On the other hand, the next year, 2018, seems to be a dismal year for stock earn
 ### Execution Time Comparison
 -I ran each version of code 3 different times, since code runs slower the first time around. The collected dataset corresponds to the third round. From the following screengrabs you can see the original version of the code had almost identical elapsed times for 2017 and 2018.
 
-#### Original Script
+                                                           #### Original Script
 ![All_Stocks_2017_Execution](Resources/All_Stocks_2017_Execution.png) ![All_Stocks_2018_Execution](Resources/All_Stocks_2018_Execution.png)

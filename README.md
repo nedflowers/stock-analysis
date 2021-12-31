@@ -35,7 +35,9 @@ From the following screengrabs, you can see the original version of the code had
 #### Refactored Script
 -The refactored script had similar elapsed times for 2017 and 2018, and both execution times improved with the new code.
 
-![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png) 
+![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
+
 
 ### Summary
 -In sum, I can see the benefits of refactoring. It can help programming run faster, assist in debugging, and it can make code easier to understand. This is clear in the above example, where the refactored script ran more effciently. In fact, the code was executed in less than one second. This may not seem like a huge gain, since the original code ran in just over a second, but I imagine milliseconds can add up if you run the code consecutively over an extended amount of time. I would say one disadvantage of refactoring is if you accidentally place an indent or make a typo, it can alter your dataset or even break the code. To be honest, I had trouble getting the refactored code to run without issue. When I stepped into the code, I also took the opportunity to reformat. However, this hasty decision caused my code to break. Then, I had to spend time debugging my debug. Theefore, refactoring code can be fairly time consuming, so you must think about all possible and necessary variables and outcomes ahead of time. It's a good idea to create an outline as to not get lost in the code. Staying organized with annotations is key.

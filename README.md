@@ -11,7 +11,9 @@ In order to achieve a more efficient script, first, I created an outline of what
 ![All_Stocks_Analysis_Outline.png](Resources/All_Stocks_Analysis_Outline.png)
 
 ### Challenges and Difficulties Encountered
-One challenging part about completing the analysis was finding the balance between reusing and refactoring past code. Additionally, there were instances when I began to overthink and added too many variables to my script, which broke my code. I eventually realized that what I needed to do was focus on single for loops, and not nested "if-statements". This allowed for my code to run once through all data, instead of 12 different times, through each ticker.
+One challenging part about completing the analysis was finding the balance between reusing and refactoring past code. Additionally, there were instances when I began to overthink and added too many variables to my script, which broke my code. I eventually realized that what I needed to do was focus on single for loops, and not nested "if-statements". This allowed for my code to run once through all data, instead of 12 different times, through each ticker. You can view the comparison between my first refactored code and the updated version below:
+
+<object data="/Resources/AllStocksAnalysisRefac_vs_AllStocksAnalysisRefacRefac2.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 ## Comparison
 

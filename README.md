@@ -32,14 +32,12 @@ I ran each version of code 3 different times, since code runs slower the first t
 #### Original Script
 From the following screengrabs, you can see the original version of the code had almost identical elapsed times for 2017 and 2018.
 
-![All_Stocks_2017_Execution](Resources/All_Stocks_2017_Execution.png) 
-![All_Stocks_2018_Execution](Resources/All_Stocks_2018_Execution.png)
+![All_Stocks_2017_Execution](Resources/All_Stocks_2017_Execution.png) ![All_Stocks_2018_Execution](Resources/All_Stocks_2018_Execution.png)
 
 #### Refactored Script
 The refactored script had similar elapsed times for 2017 and 2018, and both execution times improved by approximately 50 milliseconds with the new code.
 
-![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
-![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png) ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 
 
 ### Summary
